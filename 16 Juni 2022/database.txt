@@ -1,0 +1,2 @@
+101,Minuman,Kopi,12
+102,Minuman,Susu_jahe,12
